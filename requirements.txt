@@ -1,0 +1,6 @@
+pandas
+requests
+dnspython
+beautifulsoup4
+tldextract
+urllib3
